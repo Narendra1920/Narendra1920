@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Narendra Singh</h1>
-<h3 align="center">A passionate Full Stack Web, Reasearcher and python developer  from India</h3>
+<h3 align="center">A passionate Full Stack Web, Researcher and python developer  from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 - 🌱 I’m currently working on **Django, Machine Learning**
